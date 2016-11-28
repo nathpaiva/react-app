@@ -5,7 +5,7 @@ import Button from './button';
 
 // class
 const Twitter = () => (
-  <Button handleClick={() => console.log('Retweet')}>Retweet</Button>
+  <Button handleClick={() => console.log('Retweet')}>Retweet twitter</Button>
 );
 
 export default Twitter;
